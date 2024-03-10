@@ -1,0 +1,6 @@
+@WebApiForGptBlazor_HostAddress = http://localhost:5151
+
+GET {{WebApiForGptBlazor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
